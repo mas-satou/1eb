@@ -10,6 +10,7 @@ import android.content.Intent
  * Created by pionet on 2018/09/14.
  */
 class MyDeviceAdminReceiver : DeviceAdminReceiver() {
+    // fun→関数の宣言
     override fun onEnabled(context: Context?, intent: Intent?) {
         super.onEnabled(context, intent)
         // ?→変数がnullならnullを返す。nullじゃなければ関数実行
