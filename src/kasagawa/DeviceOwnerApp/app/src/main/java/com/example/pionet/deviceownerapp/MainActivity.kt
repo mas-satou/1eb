@@ -10,6 +10,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //画面固定化
+        this.startLockTask()
+
         kioskOnButton.setOnClickListener {
             this.startLockTask()
         }
