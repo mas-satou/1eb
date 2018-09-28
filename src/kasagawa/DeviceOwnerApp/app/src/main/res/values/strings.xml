@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">DeviceOwnerApp</string>
-    <string name="kioskOn">KIOSK ON</string>
-    <string name="kioskOff">KIOSK OFF</string>
-</resources>
