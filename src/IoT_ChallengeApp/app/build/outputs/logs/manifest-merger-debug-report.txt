@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/b7cde1562d18fc471997f9f6727f9b72/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/e36b47ebf5fe2aed3c498b3291d8da08/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/17689e76735b430386a4424ae4e9e69f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/4796dd325110a9455677d487afee427c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/864da3e11a083ac5189f970a04707430/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:8:5-55:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/b7cde1562d18fc471997f9f6727f9b72/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/b7cde1562d18fc471997f9f6727f9b72/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/e36b47ebf5fe2aed3c498b3291d8da08/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/e36b47ebf5fe2aed3c498b3291d8da08/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/17689e76735b430386a4424ae4e9e69f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/17689e76735b430386a4424ae4e9e69f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/4796dd325110a9455677d487afee427c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/4796dd325110a9455677d487afee427c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/864da3e11a083ac5189f970a04707430/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/864da3e11a083ac5189f970a04707430/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:11:13-45
+	android:icon
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:10:13-47
+	android:allowBackup
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:14:13-44
+activity#com.pionet.iot_challengeapp.MainActivity
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:16:20-57
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:20:27-74
+receiver#com.pionet.iot_challengeapp.MyDeviceAdminReceiver
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:24:9-35:20
+	android:label
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:26:17-45
+	android:permission
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:27:17-74
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:25:17-54
+meta-data#android.app.device_admin
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:28:13-30:59
+	android:resource
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:30:21-57
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:29:21-60
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:32:13-34:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:33:25-79
+receiver#com.pionet.iot_challengeapp.MyBroadcastReceiver
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:37:9-46:20
+	android:enabled
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:39:17-39
+	android:exported
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:40:17-40
+	android:directBootAware
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:41:17-47
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:38:17-52
+intent-filter#action:name:android.intent.action.LOCKED_BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:43:17-85
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:43:25-83
+category#android.intent.category.DEFAULT
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:44:17-75
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:44:27-73
+service#com.pionet.iot_challengeapp.MyService
+ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:48:9-53:19
+	android:enabled
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:50:17-39
+	android:exported
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:51:17-40
+	android:directBootAware
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:52:17-47
+	android:name
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml:49:17-42
+uses-sdk
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/b7cde1562d18fc471997f9f6727f9b72/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/b7cde1562d18fc471997f9f6727f9b72/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/e36b47ebf5fe2aed3c498b3291d8da08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/e36b47ebf5fe2aed3c498b3291d8da08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/17689e76735b430386a4424ae4e9e69f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/17689e76735b430386a4424ae4e9e69f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/4796dd325110a9455677d487afee427c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/4796dd325110a9455677d487afee427c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/864da3e11a083ac5189f970a04707430/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/864da3e11a083ac5189f970a04707430/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/satoumasaki/.gradle/caches/transforms-2/files-2.1/b7cde1562d18fc471997f9f6727f9b72/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satoumasaki/AndroidStudioProjects/IoT_ChallengeApp/app/src/main/AndroidManifest.xml

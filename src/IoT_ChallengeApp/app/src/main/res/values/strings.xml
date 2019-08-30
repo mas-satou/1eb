@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IoT_ChallengeApp</string>
+    <string name="kioskOff">KIOSK OFF</string>
+    <string name="deviceOwnerOff">DeviceOwner OFF</string>
+    <string name="menu1">menu1</string>
+    <string name="menu2">menu2</string>
+    <string name="menu3">menu3</string>
+    <string name="menu4">menu4</string>
+    <string name="menu5">menu5</string>
+    <string name="submenu1">submenu1</string>
+    <string name="submenu2">submenu2</string>
+    <string name="submenu3">submenu3</string>
+    <string name="submenu4">submenu4</string>
+    <string name="submenu5">submenu5</string>
+    <string name="product1">product1</string>
+    <string name="product2">product2</string>
+    <string name="product3">product3</string>
+    <string name="product4">product4</string>
+    <string name="orderList">注文リスト</string>
+    <string name="orderButton">注文</string>
+    <string name="callButton">【メニュー取得】</string>
+    <string name="checkButton">注文履歴</string>
+</resources>
