@@ -1,0 +1,32 @@
+{
+  "menuinfo":[
+    {
+      "category":1,
+      "sub_category":1,
+      "product_id":2000,
+      "product_name":"オムライス",
+      "price": 777
+    },
+    {
+      "category":1,
+      "sub_category":2,
+      "product_id":2001,
+      "product_name":"ラーメン",
+      "price":600
+    },
+    {
+      "category":1,
+      "sub_category":2,
+      "product_id":2002,
+      "product_name":"うどん",
+      "price":800
+    },
+    {
+      "category":1,
+      "sub_category":2,
+      "product_id":2002,
+      "product_name":"カレー",
+      "price":800
+    }
+  ]
+}
